@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Zgłoszenia Shortcodes
- * Plugin URI: gryczan.eu
+ * Plugin URI: Gryczan.eu
  * Description: Shortcody do wyświetlania pól ACF dla CPT zgloszenie i osoba
  * Version: 1.1.0
  * Author: Gryczan.eu
